@@ -1,0 +1,23 @@
+.carousel-indicators {
+    margin-left: -15% !important;
+}
+
+.product-carousel-indicators {
+    padding: 10px;
+    li {
+        height: 100px;
+        width: 100px;
+        opacity: 1 !important;
+        border: 1px solid $black;
+    }
+}
+
+.product__description {
+    .nav-item {
+        .nav-link {
+            text-shadow: 1px 1px $black;
+            font-size: 22px;
+            color: $red !important;
+        }
+    }
+}

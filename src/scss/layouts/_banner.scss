@@ -1,0 +1,46 @@
+.shop-banner__bg {
+    width: 100%;
+    background: url(../../img/banner.jpg);
+    background-size: cover !important;
+    border: 1px solid $grey;
+    margin: 20px 0px;
+}
+
+.shop-banner__bg1 {
+    width: 90%;
+    background: url(../../img/banner1.jpg);
+    background-size: cover !important;
+    border: 1px solid $grey;
+    margin: 0 auto;
+    height: auto;
+}
+
+.shop-banner__bg2 {
+    width: 90%;
+    background: url(../../img/banner2.jpg);
+    background-size: cover !important;
+    border: 1px solid $grey;
+    margin: 0 auto;
+    height: auto;
+}
+
+.shop-banner__title {
+    padding-top: 200px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 1px 1px $black;
+    font-family: "Questrial" !important;
+    color: $purple;
+}
+
+.shop-banner__btn {
+    padding-bottom: 150px;
+}
+
+.products-promo__title {
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 1px 1px $black;
+    font-family: "Questrial" !important;
+    color: $purple;
+}

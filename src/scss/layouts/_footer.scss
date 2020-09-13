@@ -1,0 +1,42 @@
+.footer__top {
+    background-color: $light-blue;
+}
+
+.footer__mid {
+    background-color: $white;
+}
+
+.footer__bottom {
+    background-color: $midnight;
+    color: $white;
+}
+
+.footer__title {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Questrial" !important;
+}
+
+.footer__subtitle {
+    font-size: 20px;
+    font-weight: 200;
+    font-family: "Questrial" !important;
+    color: $white;
+    &:hover {
+        color: $white;
+    }
+}
+
+.footer__nav {
+    .nav-item {
+        .nav-link {
+            color: $black;
+            font-size: 18px;
+            font-weight: bold;
+            font-family: "Questrial" !important;
+            &:hover {
+                color: $black;
+            }
+        }
+    }
+}
